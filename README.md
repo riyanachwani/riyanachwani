@@ -50,7 +50,7 @@ Explore more about my work: [GitHub Profile](https://github.com/riyanachwani) | 
 ## 🚀 Notable Projects
 - **[DigiMag](https://github.com/riyanachwani/DigiMag):** A dynamic Flutter-based digital magazine platform that integrates APIs for an enhanced user experience.
 - **[LeaveCare](https://github.com/riyanachwani/LeaveCare):** A comprehensive Flutter-based system for managing employee leave requests and real-time balance tracking.
-- **[WattWise](https://github.com/riyanachwani/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills.
+- **[WattWise](https://github.com/WattWiseSolutions/WattWise):** A Java application providing precise estimates of energy consumption and monthly bills.
 - **[Resume Builder](https://github.com/riyanachwani/ResumeBuilder):** A tool for creating professional resumes using Java, aimed at streamlining the resume-building process.
 
 ## 💼 Work Experience

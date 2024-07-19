@@ -1,6 +1,7 @@
 # 👋🏻 Hello!
 
 I'm **Riya Nachwani**, an innovative application developer from India with a knack for creative problem-solving. My expertise lies in Flutter and Java, and I’m passionate about developing impactful solutions and learning from every challenge I encounter.
+
 I’m actively working on a variety of projects to further develop my skills and contribute to the tech community.
 
 🌟 I am open to new opportunities, whether full-time or part-time, in the field of application development, particularly with Flutter and Java.

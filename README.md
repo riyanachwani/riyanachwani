@@ -10,8 +10,6 @@ For any inquiries or collaboration opportunities, feel free to contact me:
 
 Explore more about my work: [GitHub Profile](https://github.com/riyanachwani) | [LinkedIn Profile](https://www.linkedin.com/in/riya-nachwani-91561b1a8/)
 
-## 🛠 My Skillset
-
 ## 🛠 Skills & Technologies
 
 ### Programming Languages

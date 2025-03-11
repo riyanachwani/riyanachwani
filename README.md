@@ -56,13 +56,13 @@ Explore more about my work: [GitHub Profile](https://github.com/riyanachwani) | 
 - **[Resume Builder](https://github.com/riyanachwani/ResumeBuilder):** A tool for creating professional resumes using Java, aimed at streamlining the resume-building process.
 
 ## 💼 Work Experience
-- **Application Developer (Flutter)** at Orbol Group (Mar 2024 – Apr 2024)
+- **Mobile Application Developer** as a Freelancer (Oct 2024 – Present)
   - Developed mobile applications using Flutter and collaborated on new feature designs.
   
-- **Java Developer Intern** at CodeClause (Jul 2023 – Aug 2023)
+- **Mobile Application Developer** at Orbol Group (May 2024 – Oct 2024)
   - Worked on Java projects, focusing on coding, testing, and documentation.
 
-- **Java Developer Intern** at TechnoHacks (Jun 2023 – Jul 2023)
+- **Mobile Application Developer** at Softwin Technologies (Jan 2024 – May 2024)
   - Assisted in Java development and contributed to code quality improvements.
 
 ## 💬 Let's Connect

@@ -57,13 +57,18 @@ Explore more about my work: [GitHub Profile](https://github.com/riyanachwani) | 
 
 ## 💼 Work Experience
 - **Mobile Application Developer** as a Freelancer (Oct 2024 – Present)
-  - Developed mobile applications using Flutter and collaborated on new feature designs.
+  - Developed mobile applications using Flutter, focusing on UI/UX improvements, performance optimization, and integrating third-party APIs.
+  - Collaborated with clients to create customized app solutions tailored to their business needs.
   
 - **Mobile Application Developer** at Orbol Group (May 2024 – Oct 2024)
-  - Worked on Java projects, focusing on coding, testing, and documentation.
+  - Developed and maintained Android applications using Java.
+  - Focused on bug fixes, implementing new features, and writing clean, maintainable code.
+  - Contributed to documentation and collaborated with cross-functional teams to improve app performance.
 
 - **Mobile Application Developer** at Softwin Technologies (Jan 2024 – May 2024)
-  - Assisted in Java development and contributed to code quality improvements.
+  - Assisted in Java-based Android app development.
+  - Optimized code for better efficiency and performance.
+  - Worked closely with senior developers to improve app functionality and user experience.
 
 ## 💬 Let's Connect
 - **LinkedIn:** [Riya Nachwani](https://www.linkedin.com/in/riya-nachwani-91561b1a8/) - Let’s connect for professional opportunities and discussions.
